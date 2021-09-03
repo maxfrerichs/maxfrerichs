@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Max
-- 👀 I’m interested in Front-end development (and other stuff, like low-level-programming) 
-- 🌱 I’m currently learning Rust and TypeScript
-- 💞️ I’m looking to collaborate on ... nothing special :P
+- 👋 Hi, I’m Max, a TYPO3 and PHP developer currently working at LfdA - Labor für digitale Angelegenheiten GmbH
+- 👀 I’m interested in Web development in general (and other stuff, like low-level-programming) 
+- 🌱 I’m currently learning Docker
 - 📫 How to reach me:
      mail: maxfrerichs@gmx.de
 
