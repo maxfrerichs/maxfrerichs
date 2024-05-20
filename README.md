@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Max, a TYPO3 and PHP developer currently working at LfdA - Labor für digitale Angelegenheiten GmbH
 - 👀 I’m interested in Web development in general (and other stuff, like low-level-programming) 
-- 🌱 I’m currently getting into Core contribution for TYPO3 itself
+- 🌱 I’m currently building a TYPO3 extension to expose application metrics to Prometheus.
 - 📫 How to reach me:
      mail: contact@maxfrerichs.dev
      
